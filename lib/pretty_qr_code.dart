@@ -24,6 +24,7 @@ export 'src/painting/pretty_qr_quiet_zone.dart';
 
 export 'src/painting/shapes/pretty_qr_smooth_symbol.dart';
 export 'src/painting/shapes/pretty_qr_rounded_symbol.dart';
+export 'src/painting/shapes/pretty_qr_rounded_eye_and_dots_symbol.dart';
 
 export 'src/painting/decoration/pretty_qr_decoration.dart';
 export 'src/painting/decoration/pretty_qr_decoration_image.dart';
